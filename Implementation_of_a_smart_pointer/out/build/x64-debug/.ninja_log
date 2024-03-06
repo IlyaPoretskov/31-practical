@@ -1,0 +1,9 @@
+# ninja log v5
+2	721	7314390344878208	CMakeFiles/Implementation_of_a_smart_pointer.dir/Implementation_of_a_smart_pointer.cpp.obj	f32fbef584bb1c5c
+722	996	7314390347130673	Implementation_of_a_smart_pointer.exe	325fe59fc8cc30b4
+2	1130	7314398068318155	CMakeFiles/Implementation_of_a_smart_pointer.dir/Implementation_of_a_smart_pointer.cpp.obj	f32fbef584bb1c5c
+1131	1421	7314398070692444	Implementation_of_a_smart_pointer.exe	325fe59fc8cc30b4
+2	708	7314398630971779	CMakeFiles/Implementation_of_a_smart_pointer.dir/Implementation_of_a_smart_pointer.cpp.obj	f32fbef584bb1c5c
+708	978	7314398633192431	Implementation_of_a_smart_pointer.exe	325fe59fc8cc30b4
+2	738	7314399162447916	CMakeFiles/Implementation_of_a_smart_pointer.dir/Implementation_of_a_smart_pointer.cpp.obj	f32fbef584bb1c5c
+739	1016	7314399164711709	Implementation_of_a_smart_pointer.exe	325fe59fc8cc30b4

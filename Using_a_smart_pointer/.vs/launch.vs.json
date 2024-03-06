@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Using_a_smart_pointer.exe",
+      "name": "Using_a_smart_pointer.exe"
+    }
+  ]
+}
